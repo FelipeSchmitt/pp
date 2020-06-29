@@ -1,0 +1,40 @@
+.content{
+    margin: 8px;
+}
+
+.title{
+    font-size: 24px;
+    color: red;
+    font-weight: 600;
+}
+#slider{
+    font-size: 48px;
+    line-height: 300px;
+    color: white;
+    text-align: center;
+    background-size: 90%;
+    background-color: red;
+    height: 300px;
+    margin-top: 20px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.text1{
+   width: 100%;
+   background-color: green;
+   height: 300px;
+   margin: auto;
+   display: block;
+   text-align: justify
+}
+#tex1{
+    width: 70%;
+}
+.img{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+    display: block;
+}
